@@ -10,10 +10,10 @@ services:
       - ${DB_PORT}:5432
     volumes:
       - db-data:/var/lib/postgresql/data
-  adminer:
-    image: adminer
-    restart: always
-    ports:
-      - 8080:8080
+  #adminer:
+  #  image: adminer
+  #  restart: always
+  #  ports:
+  #    - 8080:8080
 volumes:
   db-data:

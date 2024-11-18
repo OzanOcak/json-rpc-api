@@ -1,0 +1,10 @@
+[
+  { "wishlistId": "1", "productId": "2" },
+  { "wishlistId": "1", "productId": "3" },
+  { "wishlistId": "2", "productId": "1" },
+  { "wishlistId": "3", "productId": "4" },
+  { "wishlistId": "1", "productId": "3" },
+  { "wishlistId": "1", "productId": "2" },
+  { "wishlistId": "2", "productId": "3" },
+  { "wishlistId": "3", "productId": "2" }
+]

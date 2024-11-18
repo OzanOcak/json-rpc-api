@@ -1,0 +1,34 @@
+[
+  {
+    "userId": "1",
+    "addressLine1": "123 Main St",
+    "addressLine2": "",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345"
+  },
+  {
+    "userId": "2",
+    "addressLine1": "456 Elm St",
+    "addressLine2": "Apt 1",
+    "city": "Othertown",
+    "state": "NY",
+    "zipCode": "67890"
+  },
+  {
+    "userId": "3",
+    "addressLine1": "300 Main St",
+    "addressLine2": "",
+    "city": "Anytown",
+    "state": "TX",
+    "zipCode": "12345"
+  },
+  {
+    "userId": "4",
+    "addressLine1": "900 Elm St",
+    "addressLine2": "Apt 1",
+    "city": "Othertown",
+    "state": "FL",
+    "zipCode": "67890"
+  }
+]

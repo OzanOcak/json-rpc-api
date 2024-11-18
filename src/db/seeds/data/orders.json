@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "1",
+    "orderDate": "2023-11-01T10:00:00Z",
+    "status": "completed",
+    "total": 15.98
+  },
+  {
+    "userId": "2",
+    "orderDate": "2023-11-02T11:00:00Z",
+    "status": "pending",
+    "total": 7.99
+  },
+  {
+    "userId": "3",
+    "orderDate": "2023-11-01T10:00:00Z",
+    "status": "completed",
+    "total": 10.98
+  },
+  {
+    "userId": "4",
+    "orderDate": "2023-11-02T11:00:00Z",
+    "status": "pending",
+    "total": 4.99
+  }
+]

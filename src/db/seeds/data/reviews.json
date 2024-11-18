@@ -1,0 +1,6 @@
+[
+  { "productId": "1", "userId": "1", "rating": 5, "comment": "Delicious!" },
+  { "productId": "2", "userId": "2", "rating": 4, "comment": "Very fresh." },
+  { "productId": "1", "userId": "2", "rating": 7, "comment": "Yummy!" },
+  { "productId": "2", "userId": "1", "rating": 3, "comment": "ok!" }
+]

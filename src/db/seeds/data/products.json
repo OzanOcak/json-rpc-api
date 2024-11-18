@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bruschetta",
+    "description": "Toasted bread with tomatoes",
+    "price": 5.99,
+    "stockQuantity": 100
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce with Caesar dressing",
+    "price": 7.99,
+    "stockQuantity": 50
+  },
+  {
+    "name": "Chocolate Cake",
+    "description": "Rich chocolate cake",
+    "price": 4.99,
+    "stockQuantity": 20
+  },
+  {
+    "name": "Pasta",
+    "description": "Rich chocolate cake",
+    "price": 3.99,
+    "stockQuantity": 40
+  }
+]

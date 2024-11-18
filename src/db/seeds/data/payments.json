@@ -1,0 +1,26 @@
+[
+  {
+    "orderId": "1",
+    "amount": 15.98,
+    "paymentDate": "2023-11-01T10:05:00Z",
+    "paymentMethod": "credit_card"
+  },
+  {
+    "orderId": "2",
+    "amount": 7.99,
+    "paymentDate": "2023-11-02T11:05:00Z",
+    "paymentMethod": "paypal"
+  },
+  {
+    "orderId": "3",
+    "amount": 10.98,
+    "paymentDate": "2023-11-01T10:05:00Z",
+    "paymentMethod": "credit_card"
+  },
+  {
+    "orderId": "4",
+    "amount": 4.99,
+    "paymentDate": "2023-11-02T11:05:00Z",
+    "paymentMethod": "paypal"
+  }
+]

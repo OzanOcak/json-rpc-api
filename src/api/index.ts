@@ -3,9 +3,10 @@ import { handleRpc } from "typed-rpc/server";
 import { myService } from "./service";
 
 const app = express();
-
 app.use(express.json());
+
 app.post("/api", (req, res, next) => {
+  console.log("Received RPC request:", req.body);
   handleRpc(req.body, myService)
     .then((result) => res.json(result))
     .catch(next);
