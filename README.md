@@ -132,4 +132,18 @@ erDiagram
     users ||--o{ addresses : addresses
     users ||--o{ reviews : reviews
     users ||--o{ wishlists : wishlists
+
+    products ||--o{ order_items : order_items
+    products ||--o{ cart_items : cart_items
+    products ||--o{ reviews : reviews
+    products ||--o{ product_categories : product_categories
+    
+    categories ||--o{ product_categories : product_categories
+    
+    orders ||--o{ order_items : order_items
+    orders ||--o{ payments : payments
+    
+    carts ||--o{ cart_items : cart_items
+    
+    wishlists ||--o{ wishlist_items : wishlist_items
 ```
