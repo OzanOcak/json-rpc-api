@@ -3,13 +3,13 @@
 Create a .env file
 
 ```text
-DB_HOST=
-DB_USERNAME=
-DB_PASSWORD=
-DB_NAME=
+DB_HOST=localhost
+DB_USERNAME=postgres
+DB_PASSWORD=postgres
+DB_NAME=database
 DB_PORT=5432
 PORT=4000
-DATABASE_URL=
+DATABASE_URL=postgres://postgres:postgres@localhost:5432/database
 ```
 
 ```bash
