@@ -130,5 +130,4 @@ erDiagram
     users }o--|| orders : orders
     users }o--|| carts : carts
     users }o--|| addresses : addresses
-    users }o--||
 ```
