@@ -127,7 +127,9 @@ erDiagram
         UUID wishlist_id FK
     }
 
-    users }o--|| orders : orders
-    users }o--|| carts : carts
-    users }o--|| addresses : addresses
+    users ||--o{ orders : orders
+    users ||--o{ carts : carts
+    users ||--o{ addresses : addresses
+    users ||--o{ reviews : reviews
+    users ||--o{ wishlists : wishlists
 ```
