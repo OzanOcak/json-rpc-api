@@ -127,9 +127,8 @@ erDiagram
         UUID wishlist_id FK
     }
 
-    %% Relationships
-    users ||--o{ orders : ""
-    users ||--o{ carts : ""
-    users ||--o{ addresses : ""
-    users ||--o{
+    users }o--|| orders : ""
+    users }o--|| carts : ""
+    users }o--|| addresses : ""
+    users }o--||
 ```
